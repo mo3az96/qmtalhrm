@@ -276,6 +276,7 @@ html[dir=ltr] select {
 .lang {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   gap: 5px;
   flex-shrink: 0;
   margin-inline-start: 90px;
